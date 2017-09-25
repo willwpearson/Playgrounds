@@ -24,3 +24,21 @@ print(sameQuote)
 if quote == sameQuote {
     print("These two strings are considered equal")
 }
+
+// Mess around
+var dog = "🐶"
+print(dog)
+var cat = "🐱"
+print(cat)
+if dog == cat {
+    print("Dogs are the same as cats")
+}
+else {
+    print("Cats are kool")
+}
+
+var age = 2315
+var speed = 654.324536
+var rate = age/Int (speed)
+
+
