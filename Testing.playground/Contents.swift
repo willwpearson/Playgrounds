@@ -41,4 +41,11 @@ var age = 2315
 var speed = 654.324536
 var rate = age/Int (speed)
 
+//UIView
+let rect = CGRect(x: 10, y: 10, width: 100, height: 100)
+let myView = UIView(frame: rect)
+func boxDraw() -> 
+{
+    boxDraw
+}
 
