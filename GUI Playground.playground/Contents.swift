@@ -30,4 +30,6 @@ var secondLabel = UILabel(frame: CGRect(x: 30, y: 60, width: 100, height: 100))
 secondLabel.text = "xD"
 secondLabel.textColor = .blue
 
-
+// Date Picker
+var firstDate = UIDatePicker(frame: CGRect(x: 30, y: 30, width: 2000, height: 100))
+firstDate.backgroundColor = .green
