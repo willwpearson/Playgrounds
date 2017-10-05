@@ -33,3 +33,10 @@ secondLabel.textColor = .blue
 // Date Picker
 var firstDate = UIDatePicker(frame: CGRect(x: 30, y: 30, width: 500, height: 500))
 firstDate.backgroundColor = .green
+
+
+//Mess around with GUI
+var twoLayer = UIView(frame: CGRect(x: 30, y: 60, width: 100, height: 100))
+twoLayer.backgroundColor = .black
+
+
